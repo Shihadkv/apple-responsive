@@ -1,4 +1,7 @@
-
+body{
+margin: 0;
+padding: 0;
+}
 .iphone{
     font-size:-webkit-xxx-large;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
@@ -7,5 +10,8 @@
 .morelinks{
     margin-top: -8px;
 
+}
+.stream{
+    margin-top: 75vh;
 }
 
