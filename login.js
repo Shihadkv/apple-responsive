@@ -2,7 +2,7 @@ var attempt = 3;
 function validate() {
     var email = document.getElementById("email").value;
     var password = document.getElementById("password").value;
-    if (email == "admin@gmail.com" && password == "admin") {
+    if (email == "bshihad@gmail.com" && password == "12345") {
         alert("Login successfully");
         window.location = "index.html";
         return false;
